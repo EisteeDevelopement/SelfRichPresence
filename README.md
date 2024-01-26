@@ -3,7 +3,7 @@
 
 This is a Simple JS Script wich allows you to set you own Custom Discord Rich Presence.
 
-You can use the Bat file to run the Script if you are on Windows.
+You can use the Bat file to run the Script if you use on Windows.
 
 
 Requirements:

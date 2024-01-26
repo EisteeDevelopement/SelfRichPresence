@@ -8,7 +8,7 @@ DiscordRPC.register(clientId);
 const rpc = new DiscordRPC.Client({ transport: 'ipc' });
 
 rpc.on('ready', () => {
-  console.log('Your Custom rich presence is now active.');
+  console.log('Your Custom Rich Presence is now Active.');
   setInterval(setRichPresence, 120000);
   setRichPresence();
 });

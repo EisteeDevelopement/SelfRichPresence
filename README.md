@@ -6,13 +6,14 @@ This is a Simple JS Script wich allows you to set you own Custom Discord Rich Pr
 You can use the Bat file to run the Script if you use on Windows.
 
 
-Requirements:
-NodeJS, Discord.js, discord-rpc
 
 
 
 
 ## Installation
+
+Requirements:
+NodeJS, Discord.js, discord-rpc
 
 Install the Requirements with NPM by just pasting this in your Command Prompt
 

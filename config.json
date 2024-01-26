@@ -1,0 +1,12 @@
+{
+    "ApplicationID": "Example Application ID",
+    "Details": "Example Details",
+    "State": "Example State",
+    "LargeImageKey": "example_large_image_key",
+    "LargeImageText": "Example Text",
+    "SmallImageKey": "example_small_image_key",
+    "SmallImageText": "Example Text",
+    "ButtonUrl": "https://example.url",
+    "ButtonLabel": "Example Text",
+    "Type": "PLAYING" 
+}

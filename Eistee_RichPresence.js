@@ -15,13 +15,13 @@ rpc.on('ready', () => {
 
 async function setRichPresence() {
   await rpc.setActivity({
-    details: Config.Details, //Change to your Details
-    state: Config.State, //Change to your State
+    details: Config.Details, 
+    state: Config.State, 
     startTimestamp: new Date(),
-    largeImageKey: Config.LargeImageKey, //Change to your Imagekey
-    largeImageText: Config.LargeImageText, //Change to your Image Text
-    smallImageKey: Config.SmallImageKey, //Change to your Imagekey
-    smallImageText: Config.SmallImageText, //Change to your Image Text
+    largeImageKey: Config.LargeImageKey, 
+    largeImageText: Config.LargeImageText, 
+    smallImageKey: Config.SmallImageKey, 
+    smallImageText: Config.SmallImageText, 
     type: Config.Type,
     buttons: [
       { label: Config.ButtonLabel, url: Config.ButtonUrl },

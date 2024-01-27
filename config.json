@@ -1,12 +1,22 @@
 {
-    "ApplicationID": "Example Application ID",
+    "ApplicationID": "1200471769056805054",
     "Details": "Example Details",
     "State": "Example State",
-    "LargeImageKey": "example_large_image_key",
+    "LargeImageKey": "example",
     "LargeImageText": "Example Text",
-    "SmallImageKey": "example_small_image_key",
+    "SmallImageKey": "example",
     "SmallImageText": "Example Text",
-    "ButtonUrl": "https://example.url",
-    "ButtonLabel": "Example Text",
-    "Type": "PLAYING" 
+    "Type": "PLAYING",
+    
+
+    "COMMENT2": "Here you can turn your Buttons On or Off" ,
+
+
+    "Button1": true,                                   
+    "Button1Url": "https://example.url",
+    "Button1Label": "Button 1",
+    
+    "Button2": true,                                   
+    "Button2Url": "https://example.url",
+    "Button2Label": "Button 2"
 }

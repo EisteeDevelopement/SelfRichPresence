@@ -1,12 +1,21 @@
 {
-    "ApplicationID": "Example Application ID",
+    "ApplicationID": "Application ID Here",
     "Details": "Example Details",
     "State": "Example State",
-    "LargeImageKey": "example_large_image_key",
+    "LargeImageKey": "You must Upload an Art Asset in the Discord Developer Portal and Paste the Name here.",
     "LargeImageText": "Example Text",
-    "SmallImageKey": "example_small_image_key",
+    "SmallImageKey": "You must Upload an Art Asset in the Discord Developer Portal and Paste the Name here.",
     "SmallImageText": "Example Text",
-    "ButtonUrl": "https://example.url",
-    "ButtonLabel": "Example Text",
-    "Type": "PLAYING" 
+    "Type": "PLAYING",
+    
+
+    "COMMENT1": "Here you can turn your Buttons On or Off" ,
+
+    "Button1": true,                                   
+    "Button1Url": "https://example.url",
+    "Button1Label": "Button 1",
+    
+    "Button2": true,                                   
+    "Button2Url": "https://example.url",
+    "Button2Label": "Button 2"
 }
